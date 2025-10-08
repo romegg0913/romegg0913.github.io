@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+/* 共通部分 */
+html{
+   font-size: 	100%;
+}
+body{
+   font-family:"Hiragino Gothic ProN","Hiragino Sans","BIZ UDPGothic",sans-serif;
+   line-height: 1.7;
+   color: #432;
+}
+a{
+   text-decoration: none;
+}
+img{
+   max-width: 100%;
+}
+
+/* レイアウト*/
+.align-center{
+   text-align: center;
+}
+
+/*見出し*/
+.font{
+   font-family: 'Philosopher', sans-serif;
+   font-weight: normal;
+}
+
+/*背景*/
+.cover{
+   background-size: cover;
+   background-position: center top;
+}
+.cover-home{
+   background-image: url(../images/cover-home-s.svg);
+}
+
+/*ヘッダー*/
+.page-header{
+   padding-top: 50px;
+}
+.logo{
+   width: 600px;
+}
+.main-nav{
+   display: flex;
+   justify-content: center;
+   gap: 25px;
+   font-size: 150%;
+   list-style: none;
+}
+.main-nav a{
+   color: #432;
+}
+.main-nav a:hover{
+   color: #0bd;
+}
+.about{
+   max-width: 736px;
+   padding: 15px;
+   margin: 30px auto 40px;
+}
+.about p{
+   margin-bottom: 30px;
+}
+
+/*イラスト*/
+.about img {
+   max-width: 50%;
+   height: auto;
+   margin: 0 auto;
+   display: block;
+}
+.grid{
+   display: grid;
+   gap: 10px 5px;
+   grid-template-columns: repeat(2, 1fr);
+   text-align: center;
+}
+.item img{
+   width: 30%;
+   height: auto;
+   aspect-ratio: 1/1;
+   object-fit: cover;
+   border-radius: 16px;
+}
+.item p{
+   font-size: 12px;
+}
+
+/*リンク*/
+.sns-item{
+   text-align: center;
+}
+
+/*フッター*/
+.footer{
+   background-size: cover;
+   background-position: center bottom;
+}
