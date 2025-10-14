@@ -7,33 +7,38 @@
         fill: #fff;
       }
 
-      .st1, .st2 {
+      .st3 {
+        isolation: isolate;
+      }
+
+      .st4 {
+        fill: #f3ff00;
+      }
+
+      .st1 {
+        opacity: 0;
         stroke: #000;
         stroke-miterlimit: 10;
       }
 
-      .st3 {
-        fill: #f3ff00;
-      }
-
       .st2 {
-        opacity: 0;
+        fill-opacity: 0;
       }
     </style>
   </defs>
   <rect class="st0" x=".2" y="0" width="1920" height="115"/>
-  <rect class="st3" x=".2" y="77.8" width="132.4" height="37.2"/>
-  <rect class="st3" x=".2" y="-.5" width="132.4" height="39.5"/>
-  <rect class="st3" x="1787.8" y="0" width="132.4" height="38.9"/>
-  <rect class="st3" x="1787.8" y="77.8" width="132.4" height="37.2"/>
-  <rect class="st1" y="-246" width="1920.2" height="361"/>
+  <rect class="st4" x=".2" y="77.8" width="132.4" height="37.2"/>
+  <rect class="st4" x=".2" y="-.5" width="132.4" height="39.5"/>
+  <rect class="st4" x="1787.8" y="0" width="132.4" height="38.9"/>
+  <rect class="st4" x="1787.8" y="77.8" width="132.4" height="37.2"/>
+  <rect class="st1" x=".2" y="-246" width="1920.2" height="361"/>
   <g>
     <rect class="st0" x=".2" y=".3" width="1920" height="115"/>
-    <rect class="st3" x=".2" y="78" width="132.4" height="37.2"/>
-    <rect class="st3" x=".2" y="-.3" width="132.4" height="39.5"/>
-    <rect class="st3" x="1787.8" y=".3" width="132.4" height="38.9"/>
-    <rect class="st3" x="1787.8" y="78" width="132.4" height="37.2"/>
+    <rect class="st4" x=".2" y="78" width="132.4" height="37.2"/>
+    <rect class="st4" x=".2" y="-.3" width="132.4" height="39.5"/>
+    <rect class="st4" x="1787.8" y=".3" width="132.4" height="38.9"/>
+    <rect class="st4" x="1787.8" y="78" width="132.4" height="37.2"/>
   </g>
-  <image width="2500" height="500" transform="translate(132.6 -246) scale(.7 .7)" xlink:href="../../../../画像/スクリーンショット/footer2.jpg"/>
-  <rect class="st2" x="710" y="340" width="4" height="0"/>
+  <image class="st3" width="2500" height="500" transform="translate(132.6 -235) scale(.7)" xlink:href="../../../../画像/スクリーンショット/footer2.jpg"/>
+  <polygon class="st2" points="710 340 714 340 714 340 710 340"/>
 </svg>
