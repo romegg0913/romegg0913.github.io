@@ -27,19 +27,25 @@
   </defs>
   <g class="st3">
     <g id="_レイヤー_1" data-name="レイヤー_1">
-      <rect class="st0" x=".2" y="0" width="1920" height="115"/>
-      <rect class="st4" x=".2" y="77.8" width="132.4" height="37.2"/>
-      <rect class="st4" x=".2" y="-.5" width="132.4" height="39.5"/>
-      <rect class="st4" x="1787.8" y="0" width="132.4" height="38.9"/>
-      <rect class="st4" x="1787.8" y="77.8" width="132.4" height="37.2"/>
-      <rect class="st1" x=".2" y="-150" width="1920.2" height="265"/>
-      <rect class="st0" x=".3" y=".6" width="1920" height="115"/>
-      <rect class="st4" x=".3" y="78.3" width="132.4" height="37.2"/>
-      <rect class="st4" x=".3" y="0" width="132.4" height="39.5"/>
-      <rect class="st4" x="1787.9" y=".6" width="132.4" height="38.9"/>
-      <rect class="st4" x="1787.9" y="78.3" width="132.4" height="37.2"/>
-      <polygon class="st2" points="710 340 714 340 714 340 710 340"/>
-      <image class="st3" width="2500" height="500" transform="translate(132.7 -135) scale(.7 .5)" xlink:href="../../../../画像/スクリーンショット/footer2.jpg"/>
+      <g id="_レイヤー_11" data-name="_レイヤー_1">
+        <g id="_レイヤー_11">
+          <g id="_レイヤー_111" data-name="_レイヤー_11">
+            <rect class="st0" y="1.8999988" width="1920" height="115.0000015"/>
+            <rect class="st4" y="79.6999957" width="132.3999939" height="37.1999969"/>
+            <rect class="st4" y="1.3999988" width="132.3999939" height="39.5000015"/>
+            <rect class="st4" x="1787.5" y="1.8999988" width="132.4000244" height="38.9000031"/>
+            <rect class="st4" x="1787.5" y="79.6999957" width="132.4000244" height="37.1999969"/>
+            <rect class="st1" y="-148.1000073" width="1920.1999512" height="265"/>
+            <rect class="st0" y="2.9999988" width="1919.9000244" height="114.4000015"/>
+            <rect class="st4" y="80.1999957" width="132.3999939" height="37.1999969"/>
+            <rect class="st4" y="1.8999988" width="132.3999939" height="39.5000015"/>
+            <rect class="st4" x="1787.5999756" y="2.4999988" width="132.4000244" height="38.9000015"/>
+            <rect class="st4" x="1787.5999756" y="77.8000018" width="132.4000244" height="37.1999969"/>
+            <polygon class="st2" points="709.7000122 341.8999927 713.7000122 341.8999927 713.7000122 341.8999927 709.7000122 341.8999927"/>
+            <image class="st3" width="2500" height="500" transform="translate(132.3999939 -125.03) scale(.66184 .48006)" xlink:href="../../../../画像/スクリーンショット/footer2.jpg"/>
+          </g>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
