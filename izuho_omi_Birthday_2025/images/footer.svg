@@ -3,40 +3,36 @@
   <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
   <defs>
     <style>
-      .st0 {
-        opacity: 0;
-      }
-
-      .st0, .st1, .st2 {
+      .st0, .st1 {
         fill: #fff;
       }
 
-      .st0, .st2 {
-        fill-opacity: 0;
-      }
-
-      .st3 {
+      .st2 {
         isolation: isolate;
       }
 
-      .st4 {
+      .st3 {
         fill: #f3ff00;
+      }
+
+      .st1 {
+        fill-opacity: 0;
       }
     </style>
   </defs>
-  <rect class="st1" x=".2" y="0" width="1920" height="115"/>
-  <rect class="st4" x=".2" y="77.8" width="132.4" height="37.2"/>
-  <rect class="st4" x=".2" y="-.5" width="132.4" height="39.5"/>
-  <rect class="st4" x="1787.8" y="0" width="132.4" height="38.9"/>
-  <rect class="st4" x="1787.8" y="77.8" width="132.4" height="37.2"/>
-  <rect class="st0" x=".2" y="-246" width="1920.2" height="361"/>
+  <rect class="st0" x=".2" y="0" width="1920" height="115"/>
+  <rect class="st3" x=".2" y="77.8" width="132.4" height="37.2"/>
+  <rect class="st3" x=".2" y="-.5" width="132.4" height="39.5"/>
+  <rect class="st3" x="1787.8" y="0" width="132.4" height="38.9"/>
+  <rect class="st3" x="1787.8" y="77.8" width="132.4" height="37.2"/>
+  <rect class="st1" x=".2" y="-246" width="1920.2" height="361"/>
   <g>
-    <rect class="st1" x=".3" y=".6" width="1920" height="115"/>
-    <rect class="st4" x=".3" y="78.3" width="132.4" height="37.2"/>
-    <rect class="st4" x=".3" y="0" width="132.4" height="39.5"/>
-    <rect class="st4" x="1787.9" y=".6" width="132.4" height="38.9"/>
-    <rect class="st4" x="1787.9" y="78.3" width="132.4" height="37.2"/>
+    <rect class="st0" x=".3" y=".6" width="1920" height="115"/>
+    <rect class="st3" x=".3" y="78.3" width="132.4" height="37.2"/>
+    <rect class="st3" x=".3" y="0" width="132.4" height="39.5"/>
+    <rect class="st3" x="1787.9" y=".6" width="132.4" height="38.9"/>
+    <rect class="st3" x="1787.9" y="78.3" width="132.4" height="37.2"/>
   </g>
-  <image class="st3" width="2500" height="500" transform="translate(132.6 -235) scale(.7)" xlink:href="../../../../画像/スクリーンショット/footer2.jpg"/>
-  <polygon class="st2" points="710 340 714 340 714 340 710 340"/>
+  <image class="st2" width="2500" height="500" transform="translate(132.6 -235) scale(.7)" xlink:href="../../../../画像/スクリーンショット/footer2.jpg"/>
+  <polygon class="st1" points="710 340 714 340 714 340 710 340"/>
 </svg>
