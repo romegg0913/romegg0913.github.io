@@ -4,22 +4,9 @@
   <defs>
     <style>
       .st0 {
-        fill: #fff;
-      }
-
-      .st1 {
         isolation: isolate;
-      }
-
-      .st2 {
-        fill: #f3ff00;
       }
     </style>
   </defs>
-  <rect class="st0" x=".2" y="0" width="1920" height="115"/>
-  <rect class="st2" x=".2" y="77.8" width="132.4" height="37.2"/>
-  <rect class="st2" x=".2" y="-.5" width="132.4" height="39.5"/>
-  <rect class="st2" x="1787.8" y="0" width="132.4" height="38.9"/>
-  <rect class="st2" x="1787.8" y="77.8" width="132.4" height="37.2"/>
-  <image class="st1" width="2500" height="500" transform="translate(0 -278.3) scale(.7681 .7866)" xlink:href="../../../../画像/スクリーンショット/footer2.jpg"/>
+  <image class="st0" width="2500" height="500" transform="translate(-.1 -278.3) scale(.8 .8)" xlink:href="../../../../画像/スクリーンショット/footer2.jpg"/>
 </svg>
