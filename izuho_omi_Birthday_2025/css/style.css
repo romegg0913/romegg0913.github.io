@@ -81,7 +81,7 @@ img{
 .item img{
    width: 30%;
    height: auto;
-   aspect-ratio: 1.5/1;
+   aspect-ratio: 1/1.5;
    object-fit: cover;
    border-radius: 16px;
 }
