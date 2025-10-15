@@ -98,4 +98,5 @@ img{
 .footer{
    background-size: cover;
    background-position: center bottom;
+   clear: both; 
 }
