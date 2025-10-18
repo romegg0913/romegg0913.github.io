@@ -95,8 +95,9 @@ img{
    font-size: 22px;
 }
 .sns-item2{
-   text-align: center;
+   text-align: left;
    font-size: 22px;
+   padding: 15px;
 }
 
 /*フッター*/
