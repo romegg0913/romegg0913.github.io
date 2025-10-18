@@ -18,7 +18,7 @@ img{
 
 /* レイアウト*/
 .align-center{
-   text-align: center;
+   text-align: left;
 }
 
 /*見出し*/
@@ -45,7 +45,7 @@ img{
 }
 .main-nav{
    display: flex;
-   justify-content: center;
+   justify-content: left;
    gap: 25px;
    font-size: 150%;
    list-style: none;
