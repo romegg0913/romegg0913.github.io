@@ -93,6 +93,7 @@ img{
 .sns-item{
    text-align: left;
    font-size: 18px;
+   gap: 10px 5px;
 }
 
 /*フッター*/
