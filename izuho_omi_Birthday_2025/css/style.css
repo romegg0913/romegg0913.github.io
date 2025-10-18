@@ -45,7 +45,7 @@ img{
 }
 .main-nav{
    display: flex;
-   justify-content: left;
+   justify-content: center;
    gap: 25px;
    font-size: 150%;
    list-style: none;
