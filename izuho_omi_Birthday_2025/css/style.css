@@ -83,10 +83,10 @@ img{
    height: auto;
    aspect-ratio: 1.2/1.5;
    object-fit: cover;
-   border-radius: 16px;
+   border-radius: 14px;
 }
 .item p{
-   font-size: 17px;
+   font-size: 18px;
 }
 
 /*リンク*/
