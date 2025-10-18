@@ -81,12 +81,12 @@ img{
 .item img{
    width: 50%;
    height: auto;
-   aspect-ratio: 1/1.5;
+   aspect-ratio: 1.2/1.5;
    object-fit: cover;
    border-radius: 16px;
 }
 .item p{
-   font-size: 13px;
+   font-size: 17px;
 }
 
 /*リンク*/
